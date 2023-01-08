@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "13479209665",
+    "project_id": "movieshut-41be4",
+    "storage_bucket": "movieshut-41be4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13479209665:android:bbd96742fe46a5da128240",
+        "android_client_info": {
+          "package_name": "com.example.movieshut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13479209665-ngdpnu9g7pqmsmstf4ebmoalb364kvta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDojGH87umWSa7XulWx23MCJnjA4_WAidw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13479209665-ngdpnu9g7pqmsmstf4ebmoalb364kvta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
